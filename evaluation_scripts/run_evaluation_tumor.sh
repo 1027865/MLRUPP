@@ -11,5 +11,5 @@ export unetr_pp_raw_data_base="$DATASET_PATH"/unetr_pp_raw
 # Only for Tumor, it is recommended to train unetr_plus_plus first, and then use the provided checkpoint to evaluate. It might raise issues regarding the pickle files if you evaluated without training
 
 python ../mlru_pp/inference/predict_simple.py -i 
-python ../unetr_pp/inference_tumor.py 0
+python ../mlru_pp/inference_tumor.py 0
 
