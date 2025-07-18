@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /MLRU
+cd /MLRU++
 DATASET_PATH=../DATASET/DATASET_Acdc
 
 export PYTHONPATH=./
