@@ -37,58 +37,9 @@ pip install -r requirements.txt
 
 
 ## Dataset
-We follow the same dataset preprocessing as in [nnFormer](https://github.com/282857341/nnFormer). We conducted extensive experiments on five benchmarks: Synapse, BTCV, ACDC, and Decathlon-Lung. 
+We follow the same dataset preprocessing as in [UNETR++](https://github.com/Amshaker/unetr_plus_plus). We conducted extensive experiments on five benchmarks: Synapse, BTCV, ACDC, and Decathlon-Lung. 
 
-The dataset folders for Synapse should be organized as follows: 
 
-```
-./DATASET_Synapse/
-  ├── unetr_pp_raw/
-      ├── unetr_pp_raw_data/
-           ├── Task02_Synapse/
-              ├── imagesTr/
-              ├── imagesTs/
-              ├── labelsTr/
-              ├── labelsTs/
-              ├── dataset.json
-           ├── Task002_Synapse
-       ├── unetr_pp_cropped_data/
-           ├── Task002_Synapse
- ```
- 
- The dataset folders for ACDC should be organized as follows: 
-
-```
-./DATASET_Acdc/
-  ├── unetr_pp_raw/
-      ├── unetr_pp_raw_data/
-           ├── Task01_ACDC/
-              ├── imagesTr/
-              ├── imagesTs/
-              ├── labelsTr/
-              ├── labelsTs/
-              ├── dataset.json
-           ├── Task001_ACDC
-       ├── unetr_pp_cropped_data/
-           ├── Task001_ACDC
- ```
- 
-  The dataset folders for Decathlon-Lung should be organized as follows: 
-
-```
-./DATASET_Lungs/
-  ├── unetr_pp_raw/
-      ├── unetr_pp_raw_data/
-           ├── Task06_Lung/
-              ├── imagesTr/
-              ├── imagesTs/
-              ├── labelsTr/
-              ├── labelsTs/
-              ├── dataset.json
-           ├── Task006_Lung
-       ├── unetr_pp_cropped_data/
-           ├── Task006_Lung
- ```
 
  
 Please refer to [Setting up the datasets](https://github.com/282857341/nnFormer) on nnFormer repository for more details.
