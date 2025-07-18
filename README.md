@@ -12,8 +12,8 @@ Qualitative comparison on multi-organ segmentation 3D task.
 
 ## Qualitative Comparison
 ![Zoomed Synapse Results](media/comp.png)
-### BTVC Dataset
-![BTVC Dataset](media/MLUN++.png)
+### BTVC Dataset Results
+![BTVC Dataset](media/bTVc.png)
 
 
 
