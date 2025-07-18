@@ -2,7 +2,7 @@
 
 
 ## Network Design
-![MLRU++ Network](media/MLRU.drawio.png)
+![MLRU++ Network](media/MLRU2.png)
 
 
 ## Results
