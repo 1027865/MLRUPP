@@ -4,13 +4,11 @@
 
 
 ## Results
-
-
-## Qualitative Comparison
-
 ### Synapse Dataset
 Qualitative comparison on multi-organ segmentation 3D task.
 ![Synapse Qual Results](media/MLUN++.png)
+
+## Qualitative Comparison
 ![Zoomed Synapse Results](media/comp.png)
 
 
