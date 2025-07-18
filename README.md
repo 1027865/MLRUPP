@@ -89,22 +89,7 @@ The dataset folders for Synapse should be organized as follows:
        ├── unetr_pp_cropped_data/
            ├── Task006_Lung
  ```
-   The dataset folders for BRaTs should be organized as follows: 
 
-```
-./DATASET_Tumor/
-  ├── unetr_pp_raw/
-      ├── unetr_pp_raw_data/
-           ├── Task03_tumor/
-              ├── imagesTr/
-              ├── imagesTs/
-              ├── labelsTr/
-              ├── labelsTs/
-              ├── dataset.json
-           ├── Task003_tumor
-       ├── unetr_pp_cropped_data/
-           ├── Task003_tumor
- ```
  
 Please refer to [Setting up the datasets](https://github.com/282857341/nnFormer) on nnFormer repository for more details.
 
