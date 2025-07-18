@@ -1,6 +1,8 @@
 # MLRU++: Multiscale Lightweight Residual UNETR++ with Attention for Efficient 3D Medical Image Segmentation
 
 
+## Network Design
+![MLRU++ Network](media/MLRU.drawio.png)
 
 
 ## Results
