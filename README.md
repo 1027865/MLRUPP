@@ -1,4 +1,4 @@
-# MLRU++: Multiscale Lightweight Residual UNETR++ with Attention for Efficient 3D MedicalImage Segmentation
+# MLRU++: Multiscale Lightweight Residual UNETR++ with Attention for Efficient 3D Medical Image Segmentation
 
 
 
