@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /home/rizk_lab/shared/USDN/MED/M3D_CAP/Brats2017/MLRU
+cd /MLRU++
 
 
 DATASET_PATH=../DATASET/DATASET_Lungs
