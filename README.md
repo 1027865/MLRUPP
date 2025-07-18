@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 
 ## Dataset
-We follow the same dataset preprocessing as in [nnFormer](https://github.com/282857341/nnFormer). We conducted extensive experiments on five benchmarks: Synapse, BTCV, ACDC, BRaTs, and Decathlon-Lung. 
+We follow the same dataset preprocessing as in [nnFormer](https://github.com/282857341/nnFormer). We conducted extensive experiments on five benchmarks: Synapse, BTCV, ACDC, and Decathlon-Lung. 
 
 The dataset folders for Synapse should be organized as follows: 
 
