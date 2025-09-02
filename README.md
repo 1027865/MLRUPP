@@ -60,8 +60,8 @@ bash training_scripts/run_training_tumor.sh
 
 ## Evaluation
 
-To reproduce the results of MLRU++;
-Soon will share the weights using google drive link
+The checkpoints are avilable here [![Google Drive – Checkpoints](https://drive.google.com/drive/folders/1D_yXZGsHCjAWLHMMnQKAmtKpefv-dzx3?usp=sharing)
+
 
 
 
